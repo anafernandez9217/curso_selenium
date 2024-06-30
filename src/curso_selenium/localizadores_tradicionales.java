@@ -27,7 +27,6 @@ public class localizadores_tradicionales {
 		// Encontrar elemento por xpath
 		driver_edge.findElement(By.xpath("/html/body/div[1]/div[6]/div[2]/div[2]/a[1]"));
 		
-		
 		// Metodo basico 5, .quit() = termina la sesion del driver
 		driver_edge.quit();
 		
